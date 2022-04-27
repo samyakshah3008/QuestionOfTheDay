@@ -8,6 +8,6 @@ const objSwap = (obj) => {
 console.log(
   objSwap({
     name: "Samyak",
-    age: "18",
+    name2: "Himadri",
   })
 );
